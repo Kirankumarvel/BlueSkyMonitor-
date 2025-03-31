@@ -22,8 +22,6 @@ BlueSkyMonitor/
 ├── data/
 │   ├── city_log.csv      # Logged city queries
 │   ├── weather_data.csv  # Stored weather data
-├── tests/
-│   ├── test_weather.py   # Unit tests for functions
 ```
 
 ## 🔧 Installation
@@ -31,7 +29,7 @@ BlueSkyMonitor/
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BlueSkyMonitor.git
+git clone https://github.com/Kirankumarvel/BlueSkyMonitor.git
 cd BlueSkyMonitor
 ```
 
