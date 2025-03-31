@@ -1,0 +1,6 @@
+requests
+json
+colorama
+pandas
+datetime
+os
