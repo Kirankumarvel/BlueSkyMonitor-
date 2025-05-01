@@ -29,7 +29,7 @@ BlueSkyMonitor/
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Kirankumarvel/BlueSkyMonitor.git
+git clone https://github.com/Kirankumarvel/BlueSkyMonitor-.git
 cd BlueSkyMonitor
 ```
 
